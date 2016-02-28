@@ -1,0 +1,29 @@
+_repo: L-Arrabbiata_7858
+creator:
+  author:
+    agent_name: Heyse, Paul
+    aliases:
+    - Heise, Paul
+    - Heyse, Paul Johann Ludwig von
+    birthdate: 1830
+    deathdate: 1914
+    gutenberg_agent_id: '1121'
+    url: http://www.gutenberg.org/2009/agents/1121
+    wikipedia:
+    - http://de.wikipedia.org/wiki/Paul_Heyse
+    - http://en.wikipedia.org/wiki/Paul_Heyse
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7858'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Italy -- Fiction'
+title: L'Arrabbiata
+url: http://www.gutenberg.org/ebooks/7858
